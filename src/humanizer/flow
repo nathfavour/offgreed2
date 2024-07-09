@@ -1,0 +1,4 @@
+fetch from predefined data in the data directory
+also form new from the user's interactions (mostly first few sentences)
+mixed slightly with final results
+can also modify the final result to varying degree, depending on what is in the settings.json

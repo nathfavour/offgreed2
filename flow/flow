@@ -1,0 +1,10 @@
+data
+model
+    search algorithm
+    selection algorithm
+    sentence generation algorithm
+    sentence + selection mixing algorithm
+    improver algorithm
+    randomizer algorithm
+    humanizer algorithm
+
